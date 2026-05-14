@@ -1,0 +1,12 @@
+@charset "utf-8";
+body {
+	background-color:#F0FFF0;		/*ページ全体の背景色　honeydew　*/
+	font-size:120%;		/* フォントサイズを120%にする */
+	font-family: "ＭＳ ゴシック",sans-serif;	/* フォントの種類をゴシック系にする */
+	line-height:1.5;	/* 行の高さを1.5倍にする */
+	color:#333333;		/* 文字色を濃い目のグレーにする */
+	margin-left:20px;    /* 左のマージンを確保する */
+}
+#past_calendar {
+    font-size:80%;
+}
